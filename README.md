@@ -12,3 +12,9 @@ Learn how to use Nmap to discover devices and services running on a local networ
 - **Key Topics:** Network Scanning, Enumeration, Nmap
 - **Tools:** Kali Linux, Nmap
 
+# 2. [Penetration Testing a Vulnerable Web Application using OWASP Juice Shop](https://github.com/Bibek07-hub/Ethical-Hacking-Project/commit/d7701c75e423d2880ed8b7106bd00e3d49ae6dca)
+
+Use various tools to perform penetration testing on OWASP Juice Shop, a deliberately insecure web application. This project covers identifying and exploting web vulnerabilities. 
+
+- **Key Topics:** Web Application Testing, OWASP Juice Shop, Vulnerability exploitation.
+- **Tools:** Kali Linux, OWASP Juice Shop, Burp Suite.
