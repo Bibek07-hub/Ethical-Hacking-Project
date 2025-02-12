@@ -23,10 +23,9 @@ the devices on your network using Kali Linux.
 # Installation
 
 Nmap is pre-installed on Kali Linux. You can verify the installation or update it using the following command: 
-
-##
-<tab><tab>Sudo apt-get update && sudo apt-get install nmap
-
+```sh
+Sudo apt-get update && sudo apt-get install nmap
+```
 # Tasks
 
 # Task 1: Basic Network Scan
