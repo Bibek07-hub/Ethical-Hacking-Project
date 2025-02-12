@@ -32,40 +32,40 @@ Sudo apt-get update && sudo apt-get install nmap
 
 Step1: Open a terminal on your Kali Linux machine. 
 step 2: Run a basic scan on your local network. Replace 192.168.1.0/24 with your network's IP range.
-##
-<tab><tab>nmap 192.168.1.0/24
-
+```sh
+nmap 192.168.1.0/24
+```
 Expected Output: A list of devices on your network, their IP addresses, and the open ports.
 
 # Task 2: Scanning for Specific Ports
 
 Step 1: To scan for specific ports (e.g., HTTP port 80), use the -p option:
-##
-<tab><tab>nmap -p 80 192.168.1.0/24
-
+```sh
+nmap -p 80 192.168.1.0/24
+```
 Expected Output: A list of devices with port 80 open.
 
 # Task 3: Service Version Detection
 
 Step 1: Use the -sV option to detect the version of service running on open ports:
-##
-<tab><tab>nmap -sV 192.168.1.0/24
-
+```sh
+nmap -sV 192.168.1.0/24
+```
 Expected Output: A detailed list of open ports and the services running on them, including version information.
 
 # Task 4: Operating System Detection
 
 Step 1: Use the -O option to detect the operating system of devices on the network.
-##
-<tab><tab> sudo nmap -O 192.168.1.0/24
-
+```sh
+sudo nmap -O 192.168.1.0/24
+```
 Expected Output: The operating system details of the devices on the network.
 
 # Task 5: Aggressive Scan
 
 Step 1: Perform an aggressive scan using the -A option, which includes OS detection, version detection, script scanning, and traceroute:
-##
-<tab><tab> sudo nmap -A 192.168.1.0/24
-
+```sh
+sudo nmap -A 192.168.1.0/24
+```
 Extected Output: Comprehensive information about the device on the network, including open ports, services, versios, operating systems, and traceroute details.
 
