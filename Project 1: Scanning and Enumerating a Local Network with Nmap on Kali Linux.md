@@ -69,3 +69,13 @@ sudo nmap -A 192.168.1.0/24
 ```
 Extected Output: Comprehensive information about the device on the network, including open ports, services, versios, operating systems, and traceroute details.
 
+## Additional Resources
+
+Nmap Official Documentation
+
+Nmap Cheat Sheet
+
+Online Nmap Course on Udemy
+
+
+This project will give us a solid foundation in using Nmap for network scanning and enumeration, essential skills for any ethical hacker.
