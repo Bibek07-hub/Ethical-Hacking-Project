@@ -5,11 +5,10 @@ This repository contains seven beginner-level projects focused on ethical hackin
 
 # Projects
 
-1. Scanning and Enumerating a Local Network with Nmap
+# 1. Scanning and Enumerating a Local Network with Nmap
 
 Learn how to use Nmap to discover devices and services running on a local network. This project covers basic network scans, identifying open ports, and gathering information about network devices.
 
-. Key Topics: Network Scanning, Enumeration, Nmap
-
-. Tools: Kali Linux, Nmap
+* Key Topics: Network Scanning, Enumeration, Nmap
+* Tools: Kali Linux, Nmap
 
