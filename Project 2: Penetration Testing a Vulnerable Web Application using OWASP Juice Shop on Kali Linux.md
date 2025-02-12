@@ -14,9 +14,13 @@ In this project, you will learn how to use various tools to perform penetration 
 Here is a simple network diagram for this lab setup:
 
 +------------------+ +------------------+
+
 | Attacker | | Vulnerable App |
+
 | Kali Machine |<----->| (OWASP Juice |
+
 | (192.168.1.100) | | Shop) |
+
 +------------------+ +------------------+
 
 
