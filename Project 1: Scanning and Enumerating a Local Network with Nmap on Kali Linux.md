@@ -16,8 +16,8 @@ the devices on your network using Kali Linux.
 
 # Tools
 
-* Kali Linux: A Debain-derived Linux distribution designed for digital forensics and penetration testing.
-* Nmap: Network exploration tool and security/port scanner (pre-installed on kali Linux).
+* **Kali Linux:** A Debain-derived Linux distribution designed for digital forensics and penetration testing.
+* **Nmap:** Network exploration tool and security/port scanner (pre-installed on kali Linux).
 * A local network with multiple devices connected (Computers, printers, IoT devices, etc.).
 
 # Installation
