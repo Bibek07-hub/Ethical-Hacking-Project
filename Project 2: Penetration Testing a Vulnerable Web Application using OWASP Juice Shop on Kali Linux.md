@@ -88,9 +88,13 @@ Step2: Load the form in your browser while authenticated to OWASP Juice Shop.
 Expected Output: The action is performed without the user's consent, demonstrating a CSRF vulnerability.
 
 ## Additional Resources
+
 OWASP Juice Shop Documentation
+
 Burp Suite Documentation
+
 Web Security Academy by PortSwigger
+
 Kali Linux Documentation
 
-This project will help you understand common web vulnerabilities and how to exploit them ethically using Kali Linux and OWASP Juice Shop.
+This project will help us understand common web vulnerabilities and how to exploit them ethically using Kali Linux and OWASP Juice Shop.
